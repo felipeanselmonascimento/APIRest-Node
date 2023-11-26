@@ -3,14 +3,14 @@
 </h1>
 
 <h3 align="center">
-	Building a APIRest with node using Fastify, TypeScript!
+	Building a APIRest with node using Fastify, TypeScript, Knex, Sqlite for DB!
 </h3>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/>
-	<img src="https://img.shields.io/github/repo-size/felipeanselmonascimento/FirstProjectReact?color=green"/>
-	<img src="https://img.shields.io/github/last-commit/felipeanselmonascimento/FirstProjectReact?color=green"/>
-	<img src="https://img.shields.io/github/languages/count/felipeanselmonascimento/FirstProjectReact?color=green"/>
+	<img src="https://img.shields.io/github/repo-size/felipeanselmonascimento/APIRest-Node?color=green"/>
+	<img src="https://img.shields.io/github/last-commit/felipeanselmonascimento/APIRest-Node?color=green"/>
+	<img src="https://img.shields.io/github/languages/count/felipeanselmonascimento/APIRest-Node?color=green"/>
 </p>
 
 <h4 align="center">
