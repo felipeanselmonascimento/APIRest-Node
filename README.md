@@ -27,6 +27,7 @@
 ## Tech Stack
 <img src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png?v=638179441440000000" alt="node Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Typescript-05122A?style=flat&logo=typescript" alt="typescript Badge" height="25">&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Fastify_logo.svg" alt="fastfy Badge" height="25">&nbsp;
 
 <!-- <div align="center"> 
     <img src="./src/assets/timerignite.png"/>
