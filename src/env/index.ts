@@ -1,5 +1,12 @@
-import 'dotenv/config'
+// import 'dotenv/config' sempre vai importa o arquivo .env
+import { config } from 'dotenv'
 import { z } from 'zod'
+
+if (process.env.NODE_ENV == 'test') {
+    config({ path: '.env.test'})
+} else {
+    config() 
+}
 
 //o schema e um formato de dado
 
