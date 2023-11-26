@@ -27,7 +27,8 @@
 ## Tech Stack
 <img src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png?v=638179441440000000" alt="node Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Typescript-05122A?style=flat&logo=typescript" alt="typescript Badge" height="25">&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Fastify_logo.svg" alt="fastfy Badge" height="25">&nbsp;
+<img src="https://fek.io/static/4eb1607bd8d04edf6f36dd4709740cc2/21b4d/fastify-olive-logo.png" alt="fastfy Badge" height="25">&nbsp;
+<img src="http://www.codebind.com/wp-content/uploads/2016/09/SQLite-623x381.jpg" alt="sqlite Badge" height="25">&nbsp;
 
 <!-- <div align="center"> 
     <img src="./src/assets/timerignite.png"/>
